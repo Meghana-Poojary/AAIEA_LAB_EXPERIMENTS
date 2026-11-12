@@ -1,0 +1,17 @@
+application_id,candidate_name,email,job_id,skills,years_experience,education_level,certifications,work_authorization,application_complete,label_for_demo_evaluation
+APP-1001,Aarav Shah,aarav.shah@example.test,SWE-01,Python; SQL; Git; Problem Solving; Flask,2.0,Bachelor,Python Certification; Cloud Fundamentals,yes,True,1
+APP-1002,Diya Rao,diya.rao@example.test,DA-01,SQL; Excel; Python; Data Visualization; Power BI,1.5,Bachelor,Power BI; Google Data Analytics,yes,True,1
+APP-1003,Kabir Mehta,kabir.mehta@example.test,ML-01,Python; Pandas; Scikit-learn; Statistics; TensorFlow,0.5,Bachelor,Machine Learning,yes,True,1
+APP-1004,Mira Iyer,mira.iyer@example.test,SWE-01,HTML; CSS; JavaScript,0.5,Diploma,,yes,True,0
+APP-1005,Rohan Das,rohan.das@example.test,DA-01,Excel; PowerPoint,0.0,High School,,yes,True,0
+APP-1006,Sara Khan,sara.khan@example.test,ML-01,Python; Pandas; Statistics,1.0,Bachelor,Cloud Fundamentals,yes,True,0
+APP-1007,Ishaan Patel,ishaan.patel@example.test,SWE-01,Python; SQL; Git; Problem Solving,1.0,Bachelor,Python Certification,yes,True,1
+APP-1008,Anaya Nair,anaya.nair@example.test,DA-01,SQL; Excel; Data Visualization,2.0,Master,Google Data Analytics,not_provided,True,0
+APP-1009,Vivaan Joshi,vivaan.joshi@example.test,ML-01,Python; Pandas; Scikit-learn; Statistics,0.0,Bachelor,Machine Learning; Cloud Fundamentals,yes,False,1
+APP-1010,Tara Menon,tara.menon@example.test,SWE-01,Python; Git; Problem Solving,1.0,Bachelor,Cloud Fundamentals,yes,True,0
+APP-1011,Neil Fernandes,neil.fernandes@example.test,DA-01,SQL; Excel; Python; Data Visualization,1.0,Master,Power BI,yes,True,1
+APP-1012,Pia Kulkarni,pia.kulkarni@example.test,ML-01,Python; Pandas; Statistics; Scikit-learn,2.0,Master,Machine Learning,yes,True,1
+APP-1013,Dev Malhotra,dev.malhotra@example.test,SWE-01,Python; SQL; Git; Problem Solving,3.0,Master,Python Certification; Cloud Fundamentals,yes,True,1
+APP-1014,Nisha Roy,nisha.roy@example.test,DA-01,Excel; SQL,0.5,Bachelor,,yes,True,0
+APP-1015,Arjun Bose,arjun.bose@example.test,ML-01,Python; Pandas; Scikit-learn; Statistics,0.5,Bachelor,Machine Learning; Cloud Fundamentals,yes,True,1
+APP-1016,Leela Kapoor,leela.kapoor@example.test,SWE-01,Python; SQL; Git; Problem Solving,1.0,Bachelor,Cloud Fundamentals,yes,True,1

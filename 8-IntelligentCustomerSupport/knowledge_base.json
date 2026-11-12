@@ -1,0 +1,62 @@
+[
+  {
+    "article_id": "KB001",
+    "intent": "Login / Access",
+    "keywords": [
+      "login",
+      "password",
+      "account locked",
+      "account recovery"
+    ],
+    "approved": true,
+    "response": "Follow the approved account recovery procedure. Reset your password using the account recovery page. If access remains blocked, contact support."
+  },
+  {
+    "article_id": "KB002",
+    "intent": "Billing",
+    "keywords": [
+      "invoice",
+      "payment",
+      "billing",
+      "subscription"
+    ],
+    "approved": true,
+    "response": "Review the billing portal and invoice history. If a payment is not reflected or an invoice is incorrect, contact the billing support team."
+  },
+  {
+    "article_id": "KB003",
+    "intent": "General Information",
+    "keywords": [
+      "basic plan",
+      "features",
+      "subscription",
+      "documentation"
+    ],
+    "approved": true,
+    "response": "Refer to the current approved product plan and subscription documentation for the latest feature and plan information."
+  },
+  {
+    "article_id": "KB004",
+    "intent": "Technical Error",
+    "keywords": [
+      "server error",
+      "export",
+      "application down",
+      "error"
+    ],
+    "approved": true,
+    "response": "Record the affected functionality and error details. Escalate service-wide outages or unresolved technical errors to the technical support team."
+  },
+  {
+    "article_id": "KB005",
+    "intent": "Feature Request",
+    "keywords": [
+      "dark mode",
+      "feature request",
+      "new feature",
+      "add"
+    ],
+    "approved": true,
+    "response": "Thank you for your suggestion. The request will be recorded and forwarded to the product feedback queue for review."
+  }
+]

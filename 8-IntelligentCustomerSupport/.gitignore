@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+uploaded_queries.*
+tickets.db
+*.csv
+rejected_queries.json
+output/

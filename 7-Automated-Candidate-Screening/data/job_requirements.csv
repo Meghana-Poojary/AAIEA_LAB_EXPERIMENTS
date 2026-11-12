@@ -1,0 +1,4 @@
+job_id,job_title,min_years_experience,min_education_level,required_skills,preferred_certifications
+SWE-01,Junior Software Engineer,1,Bachelor,"[""python"", ""sql"", ""git"", ""problem solving""]","[""cloud fundamentals"", ""python certification""]"
+DA-01,Data Analyst,1,Bachelor,"[""sql"", ""excel"", ""python"", ""data visualization""]","[""power bi"", ""google data analytics""]"
+ML-01,Machine Learning Intern,0,Bachelor,"[""python"", ""pandas"", ""scikit-learn"", ""statistics""]","[""machine learning"", ""cloud fundamentals""]"

@@ -1,0 +1,29 @@
+{
+  "weights": {
+    "skills": 40,
+    "experience": 25,
+    "education": 20,
+    "certifications": 15
+  },
+  "shortlist_threshold": 75,
+  "review_threshold": 45,
+  "education_order": [
+    "High School",
+    "Diploma",
+    "Bachelor",
+    "Master",
+    "PhD"
+  ],
+  "required_fields": [
+    "application_id",
+    "candidate_name",
+    "email",
+    "job_id",
+    "skills",
+    "years_experience",
+    "education_level",
+    "work_authorization",
+    "application_complete"
+  ],
+  "policy_version": "1.0.0"
+}

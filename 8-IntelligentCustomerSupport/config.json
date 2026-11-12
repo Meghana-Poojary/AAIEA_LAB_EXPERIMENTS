@@ -1,0 +1,12 @@
+{
+  "sla_minutes": {
+    "P1": 15,
+    "P2": 60,
+    "P3": 240,
+    "P4": 1440
+  },
+  "retry_attempts": 3,
+  "knowledge_match_threshold": 70,
+  "human_review_required_for_high_risk": true,
+  "sla_at_risk_minutes": 10
+}

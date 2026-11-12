@@ -1,0 +1,8 @@
+# Local Python environment and generated files
+venv/
+__pycache__/
+*.py[cod]
+
+# Generated check reports
+reports/
+workspace/reports/
